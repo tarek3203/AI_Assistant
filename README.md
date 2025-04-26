@@ -19,8 +19,8 @@ A CLI-based chatbot using DeepSeek R1 model that maintains conversation history 
 
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/AI_CHATBOT.git
-   cd AI_CHATBOT
+   git clone git@github.com:tarek3203/AI_Assistant.git
+   cd AI_Assistant
    ```
 
 2. Install required packages:
@@ -75,6 +75,10 @@ The chatbot uses the following components:
 🧑 User: my name is tariq bin bashar. what is the 2 + 2?
 
 💬 AI Assistant: Hello, Tariq Bin Bashir! The answer is 4. 😊
+
+🧑 User: what was my name? I just forgot. can you remind me please?
+
+💬 AI Assistant: Got it! Your name is Tariq Bin Bashar, and my name is DeepSeek-R1. 😊
 ```
 
 ## Troubleshooting
